@@ -16,7 +16,7 @@ Download zipped file from [Release page](https://github.com/satk0/qtdesignstudio
 
 1. Add zip file to git:
 
-`git add  qtdesignstudio-2.3.1.zip`
+`git add qtdesignstudio-2.3.1.zip`
 
 2. Then, build it with:
 
