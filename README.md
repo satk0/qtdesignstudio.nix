@@ -14,9 +14,12 @@ Download zipped file from [Release page](https://github.com/satk0/qtdesignstudio
 
 #### Building:
 
-Build it with:
+1. Add zip file to git:
+
+`git add  qtdesignstudio-2.3.1.zip`
+
+2. Then, build it with:
 
 `nix build`
 
-**NOTE:** As for now it is not working, so don't try it unless you want to help :)
-
+**NOTE:** As for now, it is not working, so don't try it unless you want to help :)
